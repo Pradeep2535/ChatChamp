@@ -1,0 +1,2 @@
+const openaiApiKey = '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';
+//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
